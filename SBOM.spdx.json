@@ -2,7 +2,7 @@
   "SPDXID": "SPDXRef-DOCUMENT",
   "spdxVersion": "SPDX-2.3",
   "creationInfo": {
-    "created": "2026-09-11T13:04:29Z",
+    "created": "2026-09-18T08:30:58Z",
     "creators": [
       "Organization: NXP"
     ],
@@ -18,7 +18,7 @@
       "versionInfo": "0.7.0",
       "licenseConcluded": "(BSD-3-Clause)",
       "licenseDeclared": "(BSD-3-Clause)",
-      "downloadLocation": "https://github.com/nxp-mobilerobotics/robotics-sm",
+      "downloadLocation": "https://github.com/nxp-robotics/robotics-sm",
       "originator": "Organization: robotics-sm",
       "supplier": "NOASSERTION",
       "externalRefs": [],
